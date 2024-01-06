@@ -1,4 +1,4 @@
-<img src="" width="100%" height="auto"/>
+<img src="https://raw.githubusercontent.com/RhismaSyahrulPutra/RhismaSyahrulPutra/055bd0f0473c4d69cfe2bdda84177cd138f5039e/images/header.svg" width="100%" height="auto"/>
 Rhisma Syahrul Putra - Web Developer & UI/UX Designer
 
 👋 Hi, I'm @RhismaSyahrulPutra, a passionate individual in the fields of web development and UI/UX design.

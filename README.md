@@ -20,7 +20,7 @@
 <div display="flex" align="justify">
 
   <!-- Frontend Section -->
-  <div width="100">
+  <div>
     <h3>Frontend</h3>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -60,14 +60,17 @@
 </div>
 
 <br/>
-Get in Touch
-Feel free to reach out to me through:
+<h2>MY STATS🔥</h2>
+<div align="center">
+  <a href="https://github.com/RhismaSyahrulPutra"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=RhismaSyahrulPutra&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/RhismaSyahrulPutra"><img width="49.4%" src="http://github-readme-streak-stats.herokuapp.com/?user=RhismaSyahrulPutra&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+</div>
 
-📧 Email: rhismasyahrulputra11@gmail.com
-👤 GitHub Profile
-I am open to collaboration and always eager to connect with like-minded individuals in the tech and design communities. Let's build something amazing together!
-
-
+<br/>
+<div width="100%" align="left">
+<h2>HAI</h2>
+  
+</div>
 <!---
 RhismaSyahrulPutra/RhismaSyahrulPutra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

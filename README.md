@@ -1,7 +1,9 @@
-<img src="https://github.com/RhismaSyahrulPutra/RhismaSyahrulPutra/blob/main/images/trans.png?raw=true" width="100%" height="auto"/>
-Rhisma Syahrul Putra - Web Developer & UI/UX Designer
+<img src="https://github.com/RhismaSyahrulPutra/RhismaSyahrulPutra/blob/main/images/trans.png?raw=true" width="100%" height="250"/>
 
-👋 Hi, I'm @RhismaSyahrulPutra, a passionate individual in the fields of web development and UI/UX design.
+<h1 align="center">Hi, I'm Rhisma Syahrul Putra👋<br/><br/>
+Junior Web Develover and Junior UI/UX Designer.</h1>
+
+a passionate individual in the fields of web development and UI/UX design.
 
 About Me
 👀 I’m interested in web development and UI/UX design.

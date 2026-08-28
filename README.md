@@ -1,14 +1,7 @@
 <div align="center">
-
-<h3>Hi, I'm</h3>
-
-<p style="font-size: 32px; font-weight: bold;">
-  Rhisma Syahrul Putra
-</p>
-
-<p style="font-size: 20px;">
-  Web Developer
-</p>
+<h1>
+  Hi, I'm<br />Rhisma Syahrul Putra<br />Web Developer
+</h1>
 
 </div>
 

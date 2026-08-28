@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  Hi, I'm<br />Rhisma Syahrul Putra<br />Web Developer
+Rhisma Syahrul Putra<br />Web Developer
 </h1>
 
 </div>
